@@ -24,6 +24,7 @@
 ```
 
 Реализация через индексы: <a href="https://github.com/tsyganno/Gameplay-Programming/blob/master/second_task_first_option.py">ссылка</a>;
+
 Реализация с помощью связных списков: <a href="https://github.com/tsyganno/Gameplay-Programming/blob/master/second_task_second_option.py">ссылка</a>.
 ```shell
 Объяснение:
