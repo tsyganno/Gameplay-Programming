@@ -6,3 +6,7 @@
                 Python example:
 
                 def isEven(value):return value%2==0
+
+Решение:
+
+Ссылка <a href="https://github.com/tsyganno/Gameplay-Programming/blob/master/even_odd_number.py">Решение</a>
