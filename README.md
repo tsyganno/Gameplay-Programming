@@ -19,6 +19,18 @@
 <br>
 2. На языке Python (2.7) реализовать минимум по 2 класса реализовывающих циклический буфер FIFO. Объяснить плюсы и минусы каждой реализации.
 
+```shell
+Решение:
+```
+
+Реализация через индексы: <a href="https://github.com/tsyganno/Gameplay-Programming/blob/master/second_task_first_option.py">ссылка</a>;
+Реализация с помощью связных списков: <a href="https://github.com/tsyganno/Gameplay-Programming/blob/master/second_task_second_option.py">ссылка</a>.
+```shell
+Объяснение:
+```
+
+
+
 
 
 
