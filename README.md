@@ -6,15 +6,15 @@
                 Python example:
 
                 def isEven(value):return value%2==0
-
+```shell
 Решение:
-```shell
+```
 Ссылка на <a href="https://github.com/tsyganno/Gameplay-Programming/blob/master/even_odd_number.py">решение</a>
-```
-Объяснение:
 ```shell
-Данный метод более быстрый, нежели деление. 
+Объяснение:
 ```
+Данный метод более быстрый, нежели деление. 
+
 
 2. На языке Python (2.7) реализовать минимум по 2 класса реализовывающих циклический буфер FIFO. Объяснить плюсы и минусы каждой реализации.
 
